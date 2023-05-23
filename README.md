@@ -1,2 +1,2 @@
-# bai-thi
- bai thi cuoi khoa
+# b-i-thi
+ baithicuoiki
